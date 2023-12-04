@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Rudementary site to show inner workings of Web Devekopment. While inspecting site with dev tools; can interact with Elements & Console to see aspects of HTML, CSS and javascript at work. 
+Rudementary site to show inner workings of Web Development. While inspecting site with dev tools; can interact with Elements & Console to see aspects of HTML, CSS and javascript at work. 
 
 ## Credits
 
